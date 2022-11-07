@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devarogundade
+- 👋 Hi, I’m Arogundade Ibrahim 
 - 👀 I’m interested in Kotlin, JavaScript, Php, and Solidity
 - 🌱 I’m currently studying Mathematics 
 - 💞️ I’m looking to collaborate on DEFI projects
