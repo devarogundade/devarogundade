@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arogundade Ibrahim 
-- 👀 I’m interested in Kotlin, Vuejs, and Solidity
+- 👀 I’m interested in Kotlin, Vuejs, Nodejs, and Solidity
 - 🌱 I’m currently studying Mathematics 
 - 💞️ I’m looking to collaborate on DEFI projects
 - 📫 How to reach me https://linktr.ee/devarogundade
