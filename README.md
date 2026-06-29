@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arogundade Ibrahim 
 - 👀 I’m interested in Web3 Projects
-- 🌱 Studied Mathematics 
+- 🌱 Studied Chemistry and Business Administration 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me https://linktr.ee/devarogundade
