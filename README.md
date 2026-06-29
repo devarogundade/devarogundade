@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arogundade Ibrahim 
-- 👀 I’m interested in Web3 Projects
+- 👀 I’m interested in Healthcare and Web3 Projects
 - 🌱 Studied Chemistry and Business Administration 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me https://linktr.ee/devarogundade
